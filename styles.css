@@ -24,7 +24,6 @@ article p:last-child {
 
 /* Unordered list styling */
 ul {
-    list-style-type: none;
     padding: 0;
 }
 
